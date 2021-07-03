@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #121116;
+    text-align: center;
+    padding: 10%;
+}
+header{
+    padding: 50px;
+}
+h1 {
+    color: #fff;
+    font-size: 20pt;
+    text-transform: uppercase;
+    
+}
+.icons{
+    padding-top: 20px;
+}
+.icons img {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+p {
+    color: #fff;
+    font-size: 15pt;
+    padding-top: 85px;
+}
+span {
+    color: #00c7fc;
+
+}
